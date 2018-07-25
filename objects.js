@@ -1,2 +1,2 @@
 var playlist = { beyonce: "partition" }
-function updatePlaylist(playlist, name, song) { }
+function updatePlaylist(playlist, name, song) { return }
